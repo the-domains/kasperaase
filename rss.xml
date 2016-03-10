@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[kasperaase]]></title>
         <description><![CDATA[kasperaase]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kasperaase/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 15:20:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 15:21:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kasperaase/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/kasperaase/20de8fe8-7b63-4b66-a1f5-752966b4c2fd/index.html</link>
+            <guid isPermaLink="false">20de8fe8-7b63-4b66-a1f5-752966b4c2fd</guid>
+            <pubDate>Thu, 10 Mar 2016 15:21:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Kasper Aase driver Purple Scouts Göteborgskontor med cirka femton anställda. </p>]]></description>
-            <link>undefinedc210c428-4689-465c-9aa9-6d4e8ae10a85/index.html</link>
+            <link>https://thegrid.ai/kasperaase/c210c428-4689-465c-9aa9-6d4e8ae10a85/index.html</link>
             <guid isPermaLink="false">c210c428-4689-465c-9aa9-6d4e8ae10a85</guid>
             <pubDate>Thu, 10 Mar 2016 15:20:33 GMT</pubDate>
         </item>
